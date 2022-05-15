@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipatidar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipatidar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishipatidar" alt="rishipatidar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishipatidar" alt="rishipatidar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rishipatidar4" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatidar4?logo=twitter&style=for-the-badge" alt="rishipatidar4" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rishipatidar4" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatidar4?logo=twitter&style=for-the-badge" alt="rishipatidar4" /></a> </p>
 
 <p align="center" width="100%">
 - 🌱 I’m currently learning **Cyber Security** </br>
