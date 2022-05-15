@@ -17,9 +17,9 @@
 - 📫 How to reach me **rishipatidar1810@gmail.com**</br>
 
 - 📄 Know about my experiences <a href="https://www.canva.com/design/DAE5dChIIko/kmKxrZYXc7hmgb7wdfCHAA/view?utm_content=DAE5dChIIko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Rishi Resume</a>
-<p></br>
+</p></br>
   
-  </p>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rishipatidar4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishipatidar4" height="30" width="40" /></a>
