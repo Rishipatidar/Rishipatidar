@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rishipatidar1810@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAE5dChIIko/kmKxrZYXc7hmgb7wdfCHAA/view?utm_content=DAE5dChIIko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>Rishi Resume</a>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAE5dChIIko/kmKxrZYXc7hmgb7wdfCHAA/view?utm_content=DAE5dChIIko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Rishi Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
