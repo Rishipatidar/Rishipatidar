@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishipatidar4" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatidar4?logo=twitter&style=for-the-badge" alt="rishipatidar4" /></a> </p>
 
-<p width="100%" margin="center">
+<p align="center" width="100%">
 - 🌱 I’m currently learning **Cyber Security** </br>
 
 - 📝 I regularly write articles on [https://www.dealdeg.com](https://www.dealdeg.com)</br>
