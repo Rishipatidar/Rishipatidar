@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" width="100%">
-- 📝 I regularly write articles on [https://www.dealdeg.com](https://www.dealdeg.com)</br>
+- 📝 I regularly write articles on <a href="https://www.dealdeg.com">Dealdeg.com</a></br>
 </p>
 
 <p align="center" width="100%">
