@@ -8,23 +8,23 @@
 <p align="center"> <a href="https://twitter.com/rishipatidar4" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatidar4?logo=twitter&style=for-the-badge" alt="rishipatidar4" /></a> </p>
 
 <p align="center" width="100%">
-- 🌱 I’m currently learning **Cyber Security** </br>
+🌱 I’m currently learning **Cyber Security** </br>
 </p>
 
 <p align="center" width="100%">
-- 📝 I regularly write articles on <a href="https://www.dealdeg.com">Dealdeg.com</a></br>
+📝 I regularly write articles on <a href="https://www.dealdeg.com">Dealdeg.com</a></br>
 </p>
 
 <p align="center" width="100%">
-- 💬 Ask me about **MERN STACK**</br>
+💬 Ask me about **MERN STACK**</br>
 </p>
 
 <p align="center" width="100%">
-- 📫 How to reach me **rishipatidar1810@gmail.com**</br>
+📫 How to reach me **rishipatidar1810@gmail.com**</br>
 </p>
 
 <p align="center" width="100%">
-- 📄 Know about my experiences <a href="https://www.canva.com/design/DAE5dChIIko/kmKxrZYXc7hmgb7wdfCHAA/view?utm_content=DAE5dChIIko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Rishi Resume</a></br>
+📄 Know about my experiences <a href="https://www.canva.com/design/DAE5dChIIko/kmKxrZYXc7hmgb7wdfCHAA/view?utm_content=DAE5dChIIko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Rishi Resume</a></br>
 </p>
   
  
