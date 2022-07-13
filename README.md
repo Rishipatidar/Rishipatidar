@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="width:100%;height:0;padding-bottom:124%;position:relative;"><iframe src="https://giphy.com/embed/2A60kHU0hVi6EddkI7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipatidar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishipatidar" alt="rishipatidar" /></a> </p>
+
 
 <p align="center"> <a href="https://twitter.com/rishipatidar4" target="blank"><img src="https://img.shields.io/twitter/follow/rishipatidar4?logo=twitter&style=for-the-badge" alt="rishipatidar4" /></a> </p>
 
