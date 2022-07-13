@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"> <img src="https://giphy.com/stickers/technology-trapbob-2A60kHU0hVi6EddkI7" alt="lab"></p>
+<div style="width:100%;height:0;padding-bottom:124%;position:relative;"><iframe src="https://giphy.com/embed/2A60kHU0hVi6EddkI7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technology-trapbob-2A60kHU0hVi6EddkI7">via GIPHY</a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipatidar" /> </p>
 
