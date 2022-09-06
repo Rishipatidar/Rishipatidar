@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/rishipr.png" alt="TryHackMe"  align="center" width="100%">
-
+<div width="100%">
+<img src="https://tryhackme-badges.s3.amazonaws.com/rishipr.png" alt="TryHackMe"  align="center">
+</div>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rishipatidar&label=Profile%20views&color=0e75b6&style=flat" alt="rishipatidar" /> </p>
