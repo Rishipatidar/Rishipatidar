@@ -1,9 +1,9 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <div width="100%">
 <img src="https://tryhackme-badges.s3.amazonaws.com/rishipr.png" alt="TryHackMe"  align="center">
 </div>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="rishi-pr184" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rishi-pr184?trk=profile-badge">Rishi Patidar</a></div>
               
 
