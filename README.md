@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Patidar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Cyber Security Learner from India</h3>
 <div width="100%">
 <img src="https://tryhackme-badges.s3.amazonaws.com/rishipr.png" alt="TryHackMe"  align="center">
 </div>
